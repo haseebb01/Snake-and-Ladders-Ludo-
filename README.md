@@ -1,1 +1,2 @@
-# Snake-and-Ladders-Ludo-
+# Snake-and-Ladders-Ludo
+Developed a digital version of the classic board game using Unity and C#. Designed intuitive 2D visuals and optimized gameplay for smooth execution. Implemented dice rolling, player movement, and board interactions. Integrated Firebase Analytics for data tracking and implemented a robust leaderboard system using PlayFab.Conducted testing to ensure a stable and optimized experience.
